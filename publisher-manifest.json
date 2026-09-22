@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "80bd21e0d1fcdd2ef5f6d46e",
+  "owner": "uedepyts",
+  "repo": "page-e83f3455112bcfc91275901c",
+  "title": "云魂",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e83f3455112bcfc91275901c",
+      "a": "云魂",
+      "b": "机场官网线路发布页",
+      "entity": "云魂",
+      "brand": "云魂",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "4ac8b995bc78e277adfd4523fec198eb0cbff0b23d319530aec8a5423109f95d",
+      "content": {
+        "primary_entity": "云魂",
+        "keyword1": "云魂",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，云魂提供基础版、旗舰版与团队版三档订阅，月付分别为 ¥15、¥35、¥85，按年支付可享 ¥150/年、¥350/年、¥850/年。基础版每月 100GB 流量、支持 3 台设备在线；旗舰版每月 300GB 流量、支持 5 台设备在线，包含 IPLC 专线游戏加速优化与 7x24 优先工单；团队版每月 1000GB 流量、支持 20 台设备在线，具备 VIP 专属高带宽节点与企业定制路由。",
+          "AI_HERO_SUBTITLE": "云魂多端加速，订阅灵活可选",
+          "AI_HERO_INTRO": "云魂是面向跨境访问场景的加速服务品牌，提供基础版、旗舰版与团队版三档订阅。不同套餐在流量、设备数量、节点线路与支持方式上各有侧重，用户可以根据日常设备规模与使用强度选择对应方案，并通过客户端导入订阅信息开始使用。",
+          "AI_VISUAL_TITLE": "云魂加速订阅",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备在线数量明确",
+          "AI_HIGHLIGHT_3": "订阅周期灵活可选",
+          "AI_FEATURES_TITLE": "云魂订阅特点",
+          "AI_FEATURES_INTRO": "从套餐差异、设备规模与订阅周期三个角度了解云魂的订阅方式。",
+          "AI_FEATURE_TITLE_1": "套餐差异清晰",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备；团队版每月 1000GB、20 台设备。",
+          "AI_FEATURE_TITLE_2": "设备规模匹配",
+          "AI_FEATURE_TEXT_2": "个人手机与电脑可选基础版，家庭多设备或游戏加速可选旗舰版，小团队集中管理可选团队版。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供月付与年付方式，年付价格分别为 ¥150/年、¥350/年、¥850/年。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统有各自的订阅客户端，建议根据设备类型选择对应工具，并按客户端文档导入订阅。",
+          "AI_PLANS_TITLE": "云魂套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月；年付分别 ¥150、¥350、¥850。可按流量、设备数量与线路需求对比选择。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "先确定套餐，再核对设备适配要求，最后依照客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备的操作系统与客户端类型，核对套餐支持的设备数量是否覆盖使用场景。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "在对应客户端中依照其文档导入订阅信息，完成节点选择与连接设置。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "云魂三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并含 IPLC 专线游戏加速优化；团队版每月 1000GB、20 台设备并支持企业定制路由。",
+          "AI_FAQ_QUESTION_2": "一个订阅可以同时登录几台设备？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量时部分设备可能需要下线后再连接。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付与月付使用相同的套餐权益，区别在于计费周期与总价：基础版年付 ¥150/年，旗舰版年付 ¥350/年，团队版年付 ¥850/年。",
+          "AI_FAQ_QUESTION_4": "如何把订阅导入客户端？",
+          "AI_FAQ_ANSWER_4": "先在设备上安装对应操作系统的客户端，再依据该客户端文档找到订阅导入入口，填入订阅信息后更新节点列表并选择线路连接。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么使用场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备在线，并提供 VIP 高带宽节点与企业定制路由，适合多人协作或设备较多的办公场景。",
+          "AI_CLOSING_TITLE": "云魂订阅选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，再按客户端文档完成订阅配置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lsdzjju.cn",
+    "host": "lsdzjju.cn"
+  },
+  "file_hashes": {
+    "index.html": "0bc0f4fbe36470e3f168c5032a100b0ab9dbfd8d1ad6e537cfb6f6df27fdbf5a",
+    "sitemap.xml": "088295545491065f22a78263d72885f1ba960d4c541c93530181385c223feb9f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "ce4cbde9e648a2c07eab58070620dfa1cb4b82e3a9085a268936733206d72c09",
+    "robots.txt": "331e9607856146849eb05dfb65250fa69c0ab02c065661d379c200b2d160d1a5",
+    "e667bfe3ac6e474a63ee5ed86e3ae3f4.txt": "fb368636411221033026e1826cbbbd64a9dbeb465281993cf62a049288f84937"
+  },
+  "revision": "aace6888df0631379dd581fed0ebfda4cbcb0e8f1d66c942eff5b32b612fa601"
+}
